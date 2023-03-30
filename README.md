@@ -1,3 +1,4 @@
+[The application can be launched from here.](https://github.com/Ruth4miles/project6)
 Line Simplification with Turf.js (Web Development)
 
 Lab 6 (ENGO 651)
